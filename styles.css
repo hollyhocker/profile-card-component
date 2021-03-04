@@ -1,0 +1,65 @@
+
+body {
+  width: 1440px;
+  background-color: hsl(185, 75%, 39%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 18px;
+  color: hsl(0, 0%, 59%);
+}
+
+strong {
+  color: hsl(229, 23%, 23%);
+}
+
+.top-bubble {
+  position: relative;
+  right: 20%;
+  bottom: 500px;
+}
+
+.bottom-bubble {
+  position: relative;
+  left: 700px;
+  bottom: 600px;
+}
+
+.card-component {
+  background-color: white;
+  position: absolute;
+  width: 350px;
+  border-radius: 20px;
+  left: 500px;
+  bottom: 300px;
+}
+.pattern-card {
+  position: relative;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.victor-img {
+  position: relative;
+  left: 125px;
+  top: -50px;
+}
+
+.about-victor {
+  position: relative;
+  text-align: center;
+  line-height: 1.5;
+  margin-top: -20px;
+}
+
+.victor-stats {
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 0;
+  word-spacing: 50px;
+}
+
+.stat-titles {
+  text-align: center;
+  padding-top: 0;
+  margin: 0 45px 18px 25px;
+  word-spacing: 35px;
+}
